@@ -1,4 +1,4 @@
-name: Laravel with Redis CI
+name: Laravel-Redis
 
 on:
   push:
